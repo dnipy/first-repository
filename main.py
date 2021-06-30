@@ -1,1 +1,4 @@
-print('hello github !!!')
+from hello import varHELLO
+
+
+print(varHELLO)
